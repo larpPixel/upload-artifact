@@ -1,0 +1,24 @@
+{
+  "source": "actions/upload-artifact",
+  "source_url": "https://git.jr4.in/actions/upload-artifact",
+  "destination": "larpPixel/upload-artifact",
+  "visibility": "public",
+  "default_branch": "main",
+  "original_git_refs": {
+    "source": "actions/upload-artifact",
+    "name": "upload-artifact",
+    "private": false,
+    "source_present": true,
+    "branches": {},
+    "tags": {
+      "refs/tags/main": "ff15f0306b3f739f7b6fd43fb5d26cd321bd4de5",
+      "refs/tags/v3": "ff15f0306b3f739f7b6fd43fb5d26cd321bd4de5"
+    },
+    "other_refs": {},
+    "oversized_blobs": []
+  },
+  "github_archival_ref_mapping": {},
+  "discussion_mapping": {},
+  "recovered_refs": {},
+  "limitations": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 18,
+    "repo_id": 14,
+    "publisher_id": 1,
+    "tag_name": "main",
+    "original_author": "",
+    "original_author_id": 0,
+    "lower_tag_name": "main",
+    "target": "",
+    "title": "Merge pull request #609 from actions/joshmgross/fix-include-hidden-files-input-node16",
+    "sha1": "ff15f0306b3f739f7b6fd43fb5d26cd321bd4de5",
+    "num_commits": -1,
+    "note": "\nEnsure hidden files input is used",
+    "is_draft": false,
+    "is_prerelease": false,
+    "is_tag": true,
+    "created_unix": 1725295538
+  },
+  {
+    "id": 19,
+    "repo_id": 14,
+    "publisher_id": 1,
+    "tag_name": "v3",
+    "original_author": "",
+    "original_author_id": 0,
+    "lower_tag_name": "v3",
+    "target": "",
+    "title": "Merge pull request #609 from actions/joshmgross/fix-include-hidden-files-input-node16",
+    "sha1": "ff15f0306b3f739f7b6fd43fb5d26cd321bd4de5",
+    "num_commits": -1,
+    "note": "\nEnsure hidden files input is used",
+    "is_draft": false,
+    "is_prerelease": false,
+    "is_tag": true,
+    "created_unix": 1725295538
+  }
+]
